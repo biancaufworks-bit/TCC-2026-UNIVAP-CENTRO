@@ -1,0 +1,2 @@
+# TCC-2026---Sistema-Web-integrado-para-gest-o-de-est-gio-em-escolas-t-cnicas
+Nosso projeto visa criar uma rede para publicação de estágios particular da escola técnica, permitindo a consulta de inúmeras vagas publicadas por professores e a escrita de um relatório diário, que ao completar a carga horária de estágio do curso, o relatório final em PDF é liberado para exportação para que o estagiário imprima.
